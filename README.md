@@ -1,6 +1,7 @@
 # Python_SQL_Workearly_Project
 This project is designed to simulate a full workflow of a Data Analyst from getting data off the Database to manipulate it with the use of Python and Pandas module to present it through matplotlib module or Tableau.
 
+- [View the complete data analysis process](https://blossom-kookaburra-40c.notion.site/Portfolio-4372eca8a1b24ed1934502ceb79007f2?p=2d89167dd9844dd0ad97cc4ceca123d4&pm=c)
 
 The concept is that we are given a dataset that contains Liquor Sales in the state of Iowa in USA between 2012-2020 and we are asked to find the most popular item per zipcode and the percentage of sales per store in the period between 2016-2019.
 
